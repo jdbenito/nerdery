@@ -1,4 +1,4 @@
-This project file demonstrates the issues encountered when an IKImageBrowserView becomes layer-backed. Note that the IKImageBrowserView work just fine if it is not layer-backed.
+This project file demonstrates the issues encountered when an IKImageBrowserView becomes layer-backed. Note that the IKImageBrowserView works just fine if it is not layer-backed.
 
 The symptoms differ depending on the Mac OS used that the project is run in.
 
