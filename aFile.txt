@@ -3,4 +3,6 @@ sis boom bah
 
 HELLO WORLD
 ADDED NEW LINE
+
+NEW LINE 1
 NEW LINE 2
